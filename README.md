@@ -1,4 +1,4 @@
-# SocialMediaAnalytics - <PLACEOLDER>
+# SocialMediaAnalytics - PLACEOLDER
 
 <b>Introduction: </b> This is a social media independent study project that I undertook to gain more experience with social media (Reddit) data text mining and topic modeling. The overaching goal of this project is to analyze data from comparable subreddits to ascertain whether the subcribers to these subreddits discuss similar topics.
 
